@@ -1,6 +1,5 @@
 ### 중고트럭 거래 플랫폼 회사 인턴 프로젝트입니다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/06246b33-5a31-42ac-a4bd-3186cb9694bd/26ed666a-27f4-4777-9062-d60209d62670/Untitled.png)
 
 ### **요약**
 
@@ -78,22 +77,18 @@
     1. KNN을 활용한 사용자 설문 기반 추천 서비스를 성공적으로 배포하여 실전에서의 인공지능에 대한 역량을 키울 수 있었던 경험이었습니다.
     2. 모델 서빙 능력 또한 갖출 수 있었던 프로젝트였습니다.
 
-# 📝기술 스택
+# 🛠 기술 스택
 
----
+### ▪ 언어
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-### 언어
+### ▪ 주요 라이브러리
+<img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/KNN-99CC00?style=for-the-badge&logo=KNN&logoColor=white"> <img src="https://img.shields.io/badge/matplotlib-0058CC?style=for-the-badge&logo=matplotlib&logoColor=white"> <img src="https://img.shields.io/badge/RNN-FF4F8B?style=for-the-badge&logo=RNN&logoColor=white">
+<img src="https://img.shields.io/badge/LSTM-FF0000?style=for-the-badge&logo=LSTM&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-7FADF2?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/NodeJS-7FADF2?style=for-the-badge&logo=NodeJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-7FADF2?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/React-7FADF2?style=for-the-badge&logo=React&logoColor=white">
 
-- **Python**
+### ▪ 개발 툴
+<img src="https://img.shields.io/badge/VS code-2F80ED?style=for-the-badge&logo=VS code&logoColor=white">
 
-### 주요 라이브러리
-
-- **Scikit learn, Pandas, Numpy, KNN, Matplotlib, RNN, LSTM, Keras, JavaScript, NodeJS, MySQL, React**
-
-### 개발 툴
-
-- **VScode**
-
-### 협업 툴
-
-- **Github**
+### ▪ 협업 툴
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
